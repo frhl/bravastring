@@ -31,7 +31,7 @@ Collate:
     'translate_brava_trait.R'
     'add_N.R'
     'canonical_path.R'
-    'cauchy_p.R'
+    'cauchy_statistic.R'
     'is_canonical.R'
     'run_inv_var.R'
     'run_stouffer.R'

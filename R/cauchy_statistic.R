@@ -11,10 +11,10 @@
 #' @examples
 #' p_values <- c(0.01, 0.02, 0.03, 0.04)
 #' weights <- c(0.4, 0.3, 0.2, 0.1)
-#' cct_stat <- cauchy_p(p_values, weights)
+#' cct_stat <- cauchy_statistic(p_values, weights)
 #' print(cct_stat)
 #' @export
-cauchy_p <- function(p_values, weights=NULL) {
+cauchy_statistic <- function(p_values, weights=NULL) {
   is.zero <- sum(p_values == 0) >= 1
   is.one <- sum(p_values > (1 - 1e-14)) >= 1
 
