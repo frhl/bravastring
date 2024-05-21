@@ -25,6 +25,7 @@ Collate:
     'regex_vector.R'
     'str_extract_annotation.R'
     'str_extract_brava_trait.R'
+    'str_extract_brava_trait_gel.R'
     'str_extract_encoding.R'
     'translate_brava_trait.R'
     'add_N.R'
