@@ -23,6 +23,7 @@ Collate:
     'get_ancestries.R'
     'get_annotations.R'
     'get_encodings.R'
+    'get_sex_specific_brava_traits.R'
     'gene_id_to_hgnc_symbol.R'
     'regex_vector.R'
     'str_extract_ancestry.R'
