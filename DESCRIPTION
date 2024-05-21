@@ -1,0 +1,29 @@
+Package: bravastring
+Type: Package
+Title: String Processing Utilities for BRAVA Phenotypes
+Version: 0.1.0
+Author: Your Name
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: A set of utilities for cleaning, processing, and extracting
+    information from BRAVA phenotype data. This package includes functions
+    for standardizing column names, translating phenotype identifiers,
+    extracting variant annotations and genotype encodings, and more.
+    Use four spaces when indenting paragraphs within the Description.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    data.table,
+    stringr
+Collate: 
+    'brava_trait_path.R'
+    'clean_string.R'
+    'dict.R'
+    'get_annotations.R'
+    'get_encodings.R'
+    'regex_vector.R'
+    'str_extract_annotation.R'
+    'str_extract_brava_trait.R'
+    'str_extract_encoding.R'
+    'translate_brava_trait.R'
+RoxygenNote: 7.2.3

@@ -1,0 +1,115 @@
+desc	phenotype_id	sex	phenotype_id_easy
+Abdominal aortic aneurysm (AAA)	AAA	Both	abdominal_aortic_aneurysm_aaa
+Acute appendicitis (AcApp)	AcApp	Both	acute_appendicitis_acapp
+Acute lymphoid leukemia	AcuLymLeuk	Both	acute_lymphoid_leukemia
+Adenomyosis	Adenomy	Female	adenomyosis
+Age-related macular degeneration	AMD	Both	age_related_macular_degeneration
+AL amyloidosis	ALamy	Both	al_amyloidosis
+Alcohol use disorder	AUD	Both	alcohol_use_disorder
+Alopecia Areata	AloAre	Both	alopecia_areata
+Anorexia nervosa	AnoNer	Both	anorexia_nervosa
+Aortic stenosis	AoSten	Both	aortic_stenosis
+Asthma (Asthma)	Asth	Both	asthma_asthma
+Atopic diseases	AtopDis	Both	atopic_diseases
+Atrial Fibrillation	AFib	Both	atrial_fibrillation
+Attention-deficit/hyperactivity disorder (ADHD)	ADHD	Both	attention_deficit_or_hyperactivity_disorder_adhd
+Autism spectrum disorder (ASD)	ASD	Both	autism_spectrum_disorder_asd
+B-cell chronic lymphocytic leukemia	BCLL	Both	b_cell_chronic_lymphocytic_leukemia
+Benign and in situ cervical and uterine neoplasms	BenCervUterNeo	Female	benign_and_in_situ_cervical_and_uterine_neoplasms
+Benign and in situ intestinal neoplasms	BenIntNeo	Both	benign_and_in_situ_intestinal_neoplasms
+Benign nodular goiter	BenNodGoit	Both	benign_nodular_goiter
+Bladder cancer	BladCanc	Both	bladder_cancer
+Brain and central nervous system cancer	BrainCNSCanc	Both	brain_and_central_nervous_system_cancer
+Breast cancer	BreastCanc	Female	breast_cancer
+Brugada syndrome	BrugSynd	Both	brugada_syndrome
+Bulimia nervosa	BuliNer	Both	bulimia_nervosa
+Bullous pemphigoid	BullPemph	Both	bullous_pemphigoid
+Cardiogenic shock	CarShock	Both	cardiogenic_shock
+Cardiomyopathy(hypertrophic, obstructive) (HCM)	HCM	Both	cardiomyopathyhypertrophic_obstructive_hcm
+Central retinal vein occlusion	CRVO	Both	central_retinal_vein_occlusion
+Cervical cancer	CervCanc	Female	cervical_cancer
+Chronic myeloid leukemia	CML	Both	chronic_myeloid_leukemia
+Chronic obstructive pulmonary disease (COPD)	COPD	Both	chronic_obstructive_pulmonary_disease_copd
+Chronic Renal Failure	CRF	Both	chronic_renal_failure
+Coffin-Siris syndrome	CoffSirSynd	Both	coffin_siris_syndrome
+Colon and rectum cancer	ColonRectCanc	Both	colon_and_rectum_cancer
+Coronary artery disease	CAD	Both	coronary_artery_disease
+Corpus callosum agenesis-neuronopathy syndrome	CCANS	Both	corpus_callosum_agenesis_neuronopathy_syndrome
+Eating disorders	EatDis	Both	eating_disorders
+Endocarditis	Endocar	Both	endocarditis
+Endometriosis	Endometr	Female	endometriosis
+Esophageal cancer	EsophCanc	Both	esophageal_cancer
+Essential thrombocythemia	EssThrom	Both	essential_thrombocythemia
+Excess, frequent and irregular menstrual bleeding	EFRMB	Female	excess_frequent_and_irregular_menstrual_bleeding
+Familial spontaneous pneumothorax	FSP	Both	familial_spontaneous_pneumothorax
+Female infertility	FemInf	Female	female_infertility
+Female infertility (anatomic causes only)	FemInfAC	Female	female_infertility_anatomic_causes_only
+Follicular lymphoma	FolLymph	Both	follicular_lymphoma
+Gout	Gout	Both	gout
+Graves disease	GravesDis	Both	graves_disease
+Haemochromatosis	HemoChromo	Both	haemochromatosis
+Heart Failure (HF)	HF	Both	heart_failure_hf
+Hepatocellular Carcinoma	HepCarcin	Both	hepatocellular_carcinoma
+Hypertension	HTN	Both	hypertension
+Hypertensive heart disease	HHD	Both	hypertensive_heart_disease
+Hypothyroidism	HypoThyr	Both	hypothyroidism
+Idiopathic pulmonary fibrosis (IPF)	IPF	Both	idiopathic_pulmonary_fibrosis_ipf
+Immune thrombocytopenia	ITP	Both	immune_thrombocytopenia
+Inflammatory bowel disease	IBD	Both	inflammatory_bowel_disease
+Inguinal, femoral, and abdominal hernia	IFHern	Both	inguinal_femoral_and_abdominal_hernia
+Interstitial lung disease and pulmonary sarcoidosis	ILDSarc	Both	interstitial_lung_disease_and_pulmonary_sarcoidosis
+Iodine deficiency	IodDef	Both	iodine_deficiency
+Kabuki Syndrome	KabSynd	Both	kabuki_syndrome
+Kidney cancer	KidCanc	Both	kidney_cancer
+Kleefstra Syndrome	KleefSynd	Both	kleefstra_syndrome
+Larynx cancer	LaryxCanc	Both	larynx_cancer
+Leukemia	Leuk	Both	leukemia
+Liver cancer	LiverCanc	Both	liver_cancer
+Liver fibrosis / cirrhosis	LiverFibCirr	Both	liver_fibrosis_or_cirrhosis
+Long QT syndrome	LongQTSynd	Both	long_qt_syndrome
+Lymphocytic thyroiditis	LymphThyrit	Both	lymphocytic_thyroiditis
+Male infertility	MalInf	Male	male_infertility
+Maternal hemorrhage	MatHem	Female	maternal_hemorrhage
+Maternal hypertensive disorders	MatHypDis	Female	maternal_hypertensive_disorders
+MODY diabetes	MODYDiab	Both	mody_diabetes
+Multiple myeloma	MultiMyel	Both	multiple_myeloma
+Multiple Sclerosis	MS	Both	multiple_sclerosis
+Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (ME/CFS)	MECS	Both	myalgic_encephalomyelitis_or_chronic_fatigue_syndrome_me_or_cfs
+Myocarditis	Myocard	Both	myocarditis
+Narcolepsy type 1	Narco1	Both	narcolepsy_type_1
+Non-functioning pituitary adenoma	NonFuncPitAd	Both	non_functioning_pituitary_adenoma
+Non-Hodgkin lymphoma	NHL	Both	non_hodgkin_lymphoma
+Non-papillary transitional cell carcinoma of the bladder	NonPapTCCBlad	Both	non_papillary_transitional_cell_carcinoma_of_the_bladder
+Non-rheumatic valvular heart disease	NonRheuValv	Both	non_rheumatic_valvular_heart_disease
+Opioid use disorder	OUD	Both	opioid_use_disorder
+Osteochondritis dissecans	OCD	Both	osteochondritis_dissecans
+Ovarian cancer	OvCanc	Female	ovarian_cancer
+Pancreatitis	Pancreat	Both	pancreatitis
+Parkinson's disease	ParkDis	Both	parkinson's_disease
+Peptic ulcer disease	PeptUlcer	Both	peptic_ulcer_disease
+Peripheral artery disease	PAD	Both	peripheral_artery_disease
+Placental insufficiency	PlacInsuf	Female	placental_insufficiency
+Polycystic ovarian syndrome	PCOS	Female	polycystic_ovarian_syndrome
+Polycythemia vera	PolycythVera	Both	polycythemia_vera
+Preeclampsia	Preeclamps	Female	preeclampsia
+Pregnancy Loss	PregLoss	Females	pregnancy_loss
+Primary open angle glaucoma (POAG)	POAG	Both	primary_open_angle_glaucoma_poag
+Primary Sjögren syndrome	PrimSjoSynd	Both	primary_sjögren_syndrome
+Prolactinoma	Prolactinom	Both	prolactinoma
+Psoriasis	Psori	Both	psoriasis
+Rheumatic heart disease	RheumHeaDis	Both	rheumatic_heart_disease
+Rheumatoid arthritis	RheumArth	Both	rheumatoid_arthritis
+Romano-Ward syndrome	RomWardSynd	Both	romano_ward_syndrome
+Sarcoidosis	Sarcoid	Both	sarcoidosis
+Seborrhoeic dermatitis	SebDerm	Both	seborrhoeic_dermatitis
+Spina bifida aperta	SpinaBifAp	Both	spina_bifida_aperta
+Stomach cancer	StomCanc	Both	stomach_cancer
+Stroke (Stroke)	Stroke	Both	stroke_stroke
+Systemic lupus erythematosus	SLE	Both	systemic_lupus_erythematosus
+Thoracic aortic aneurysm and dissection (TAAD)	TAAD	Both	thoracic_aortic_aneurysm_and_dissection_taad
+Thyroid cancer (ThC)	ThyroCanc	Both	thyroid_cancer_thc
+Type 2 diabetes	T2Diab	Both	type_2_diabetes
+Urolithiasis	Urolith	Both	urolithiasis
+Uterine cancer (UtC)	UterCanc	Female	uterine_cancer_utc
+Varicose Veins	VaricVeins	Both	varicose_veins
+Venous Thromboembolism (VTE)	VTE	Both	venous_thromboembolism_vte
