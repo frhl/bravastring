@@ -56,7 +56,7 @@ run_inv_var <- function(dt, se_cols, beta_cols){
   p_value_meta <- 2 * pnorm(abs(z_value), lower.tail = FALSE)
   
   # Append results to the original data table
-  dt$p_value_meta <- p_value_meta
+  dt$p.value.meta <- p_value_meta
   return(dt)
 }
 

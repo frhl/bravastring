@@ -64,9 +64,9 @@ run_stouffer <- function(dt, n_eff_cols, p_cols, beta_cols, two_tail=TRUE, nudge
   
   # Get meta p-value
   if (two_tail) {
-    dt$p_value_meta <- 2 * pnorm(abs(dt$z_weighted), lower.tail = FALSE)
+    dt$p.value.meta <- 2 * pnorm(abs(dt$z_weighted), lower.tail = FALSE)
   } else {
-    dt$p_value_meta <- pnorm(dt$z_weighted, lower.tail = FALSE)
+    dt$p.value.meta <- pnorm(dt$z_weighted, lower.tail = FALSE)
   }
   
   return(dt)
