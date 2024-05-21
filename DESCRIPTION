@@ -14,6 +14,7 @@ Encoding: UTF-8
 LazyData: true
 Imports: 
     data.table,
+    dplyr,
     stringr
 Collate: 
     'brava_trait_path.R'
@@ -26,4 +27,12 @@ Collate:
     'str_extract_brava_trait.R'
     'str_extract_encoding.R'
     'translate_brava_trait.R'
+    'add_N.R'
+    'canonical_path.R'
+    'cauchy_p.R'
+    'is_canonical.R'
+    'read_biobank_result.R'
+    'run_inv_var.R'
+    'run_stouffer.R'
+    'transcript_to_gene_id.R'
 RoxygenNote: 7.2.3
