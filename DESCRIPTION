@@ -13,7 +13,6 @@ License: What license is it under?
 Encoding: UTF-8
 LazyData: true
 Imports: 
-    dplyr,
     data.table,
     stringr
 Collate: 
@@ -34,7 +33,6 @@ Collate:
     'canonical_path.R'
     'cauchy_p.R'
     'is_canonical.R'
-    'read_biobank_result.R'
     'run_inv_var.R'
     'run_stouffer.R'
     'transcript_to_gene_id.R'
