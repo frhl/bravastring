@@ -13,8 +13,8 @@ License: What license is it under?
 Encoding: UTF-8
 LazyData: true
 Imports: 
-    data.table,
     dplyr,
+    data.table,
     stringr
 Collate: 
     'brava_trait_path.R'
@@ -35,4 +35,6 @@ Collate:
     'run_inv_var.R'
     'run_stouffer.R'
     'transcript_to_gene_id.R'
+    'calc_inflation.R'
+    'get_expected_p.R'
 RoxygenNote: 7.2.3
