@@ -12,5 +12,6 @@
 #' # [1] "(apple)|(banana)|(cherry)"
 #' @export
 regex_vector <- function(x){
-  paste(paste0("(", x, ")"), collapse="|")
+    x <- x[order(nchar(x), decreasing = TRUE)]
+    paste(paste0("(", x, ")"), collapse="|")
 }
