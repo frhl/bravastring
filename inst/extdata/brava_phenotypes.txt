@@ -113,3 +113,15 @@ Urolithiasis	Urolith	Both	urolithiasis
 Uterine cancer (UtC)	UterCanc	Female	uterine_cancer_utc
 Varicose Veins	VaricVeins	Both	varicose_veins
 Venous Thromboembolism (VTE)	VTE	Both	venous_thromboembolism_vte
+Alanine transaminase	ALT	Both	p30620.alanine_aminotransferase
+Alcohol consumption (drinks per week)	AlcCons	Both	NA
+Aspartate aminotransferase (AST)	AST	Both	p30650.aspartate_aminotransferase
+BMI	BMI	Both	p21001.body_mass_index_bmi
+C-reactive protein (CRP)	CRP	Both	p30710.c_reactive_protein
+HDLC	HDLC	Both	p30760.hdl_cholesterol
+Height	Height	Both	p50.standing_height
+LDLC	LDLC	Both	p30780.ldl_direct
+Total cholesterol	TChol	Both	p23400.total_cholesterol
+Triglycerides	TG	Both	p30870.triglycerides
+WHR adjusted for BMI	WHRBMI	Both	WHR_adj_BMI
+Hip replacement (operation)	HipRep	Both	NA
