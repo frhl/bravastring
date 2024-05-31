@@ -7,7 +7,7 @@
 #' @return A character string with the extracted biobank, or NA if no match is found.
 #' @import stringr
 #' @export
-str_extract_annotation <- function(x){
+str_extract_biobank <- function(x){
   regex_pattern <- regex_vector(get_biobanks())
   return(stringr::str_extract(x, pattern=regex_pattern))
 }
