@@ -9,5 +9,5 @@
 #' # [1] "eur" "eas" "sas" "afr" "jpn" "amr"
 #' @export
 get_ancestries <- function(){
-  return(c("eur", "eas", "sas", "afr", "jpn", "amr"))
+  return(c("eur", "eas", "sas", "afr", "mid", "amr"))
 }

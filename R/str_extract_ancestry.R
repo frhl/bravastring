@@ -11,7 +11,8 @@
 #' @import stringr
 #' @export
 str_extract_ancestry <- function(x){
-  regex_pattern <- regex_vector(get_ancestries())
+  ancestries <- get_ancestries()
+  regex_pattern <- regex_vector(c(tolower(ancestries), toupper(ancestries)))
   return(stringr::str_extract(x, pattern = regex_pattern))
 }
 
