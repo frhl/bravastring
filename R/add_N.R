@@ -28,9 +28,6 @@ add_N <- function(dt_variant) {
   if ("N" %in% colnames(dt_variant)) {
     N_eff <- mean(dt_variant$N)
     dt_variant$N_eff <- N_eff
-    dt_variant$EAC <- N_eff * dt_variant$AF_Allele2
-    dt_variant$CAF <- dt_variant$AF_Allele2
-    dt_variant$BIC <- dt_variant$AC_Allele2 / 2
     binary <- FALSE
   } else {
     N_case <- mean(dt_variant$N_case)
@@ -39,9 +36,6 @@ add_N <- function(dt_variant) {
     dt_variant$N_eff <- N_eff
     dt_variant$N_case <- N_case
     dt_variant$N_control <- N_control
-    dt_variant$EAC <- N_case * dt_variant$AF_Allele2
-    dt_variant$CAF <- dt_variant$AF_Allele2
-    dt_variant$BIC <- dt_variant$AC_Allele2 / 2
     binary <- TRUE
   }
   
