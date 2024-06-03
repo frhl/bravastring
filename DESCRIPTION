@@ -26,6 +26,7 @@ Collate:
     'get_biobanks.R'
     'get_sex_categories.R'
     'get_sex_specific_brava_traits.R'
+    'get_brava_description.R'
     'gene_id_to_hgnc_symbol.R'
     'regex_vector.R'
     'str_extract_ancestry.R'
