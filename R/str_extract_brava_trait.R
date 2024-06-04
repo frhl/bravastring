@@ -20,5 +20,6 @@ str_extract_brava_trait <- function(x, use_latest_names=TRUE){
   } else {
     regex_pattern <- regex_vector(brava$phenotype_id_easy)
   }
+  regex_pattern <- paste0("(?<=[_\\.])", regex_pattern, "(?=[_\\.])")
   return(stringr::str_extract(x, pattern=regex_pattern))
 }

@@ -13,5 +13,6 @@
 #' @export
 str_extract_encoding <- function(x){
   regex_pattern <- regex_vector(get_encodings())
+  regex_pattern <- paste0("(?<=[_\\.])", regex_pattern, "(?=[_\\.])")
   return(stringr::str_extract(x, pattern=regex_pattern))
 }

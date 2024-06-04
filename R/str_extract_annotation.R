@@ -13,6 +13,7 @@
 #' @export
 str_extract_annotation <- function(x){
   regex_pattern <- regex_vector(get_annotations())
+  regex_pattern <- paste0("(?<=[_\\.])", regex_pattern, "(?=[_\\.])")
   return(stringr::str_extract(x, pattern=regex_pattern))
 }
 
