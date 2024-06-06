@@ -17,6 +17,7 @@ Imports:
     stringr
 Collate: 
     'brava_trait_path.R'
+    'brava_samples_path.R'
     'clean_string.R'
     'dict.R'
     'hgnc_symbol_path.R'
@@ -27,6 +28,7 @@ Collate:
     'get_sex_categories.R'
     'get_sex_specific_brava_traits.R'
     'get_brava_description.R'
+    'get_brava_samples.R'
     'gene_id_to_hgnc_symbol.R'
     'regex_vector.R'
     'str_extract_ancestry.R'
