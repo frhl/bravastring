@@ -13,7 +13,8 @@
 str_extract_ancestry <- function(x){
   ancestries <- get_ancestries()
   regex_pattern <- regex_vector(c(tolower(ancestries), toupper(ancestries)))
-  regex_pattern <- paste0("(_|\\.)", regex_pattern, "(_|\\.") 
-  return(gsub("(\\.)|(_)","",stringr::str_extract(x, pattern = regex_pattern)))
+  regex_pattern <- paste("(_|\\.)?(",regex_pattern,")(_|\\.)")
+  out <- stringr::str_extract(x, pattern = regex_pattern)
+  out <- gsub("(\\.)|(_)", "", out)
+  return(out)
 }
-
