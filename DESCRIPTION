@@ -48,4 +48,5 @@ Collate:
     'transcript_to_gene_id.R'
     'calc_inflation.R'
     'get_expected_p.R'
+    'map_icd_to_chapter.R'
 RoxygenNote: 7.2.3
