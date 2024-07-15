@@ -1,0 +1,1001 @@
+icd_code	sex	trait
+I10	NA	Essential (primary) hypertension
+E78	NA	Disorders of lipoprotein metabolism and other lipidemias
+M25	NA	Other joint disorders
+M19	NA	Other arthrosis
+M79	NA	Other soft tissue disorders, not elsewhere classified
+M54	NA	Dorsalgia
+K21	NA	Gastro-esophageal reflux disease
+K57	NA	Diverticular disease of intestine
+J45	NA	Asthma
+J22	NA	Unspecified acute lower respiratory infection
+K29	NA	Gastritis and duodenitis
+F32	NA	Major depressive disorder, single episode
+K44	NA	Diaphragmatic hernia
+N39	NA	Other disorders of urinary system
+I25	NA	Chronic ischemic heart disease
+H26	NA	Other cataract
+E66	NA	Overweight and obesity
+J06	NA	Acute upper respiratory infections of multiple and unspecified sites
+L98	NA	Other disorders of skin and subcutaneous tissue
+J30	NA	Vasomotor and allergic rhinitis
+K64	NA	Hemorrhoids
+L30	NA	Other and unspecified dermatitis
+K62	NA	Other diseases of anus and rectum
+M17	NA	Osteoarthritis of knee
+M13	NA	Other arthritis
+F17	NA	Nicotine dependence
+I48	NA	Atrial fibrillation and flutter
+E11	NA	Type 2 diabetes mellitus
+F41	NA	Other anxiety disorders
+J18	NA	Pneumonia, unspecified organism
+K63	NA	Other diseases of intestine
+E03	NA	Other hypothyroidism
+N95	F	Menopausal and other perimenopausal disorders
+K59	NA	Other functional intestinal disorders
+I20	NA	Angina pectoris
+M47	NA	Spondylosis
+N40	M	Hyperplasia of prostate
+H25	NA	Senile cataract
+K58	NA	Irritable bowel syndrome
+K80	NA	Cholelithiasis
+M75	NA	Shoulder lesions
+D64	NA	Other anemias
+L03	NA	Cellulitis
+K40	NA	Inguinal hernia
+M77	NA	Enthesopathy
+L82	NA	Seborrheic keratosis
+B35	NA	Dermatophytosis
+D50	NA	Iron deficiency anemia
+H61	NA	Other disorders of external ear
+I84	NA	Hemorrhoids
+K52	NA	Other noninfective gastroenteritis and colitis
+N18	NA	Chronic kidney disease
+M16	NA	Osteoarthritis of hip
+M51	NA	Thoracic, thoracolumbar, and lumbosacral intervertebral disc disorders
+N92	F	Excessive, frequent and irregular menstruation
+E87	NA	Other disorders of fluid, electrolyte and acid-base balance
+J44	NA	Other chronic obstructive pulmonary disease
+G43	NA	Migraine
+M81	NA	Osteoporosis without current pathological fracture
+A09	NA	Infectious gastroenteritis and colitis, unspecified
+K92	NA	Other diseases of digestive system
+N17	NA	Acute kidney failure
+G56	NA	Mononeuropathies of upper limb
+I83	NA	Varicose veins of lower extremities
+M72	NA	Fibroblastic disorders
+I51	NA	Complications and ill-defined descriptions of heart disease
+I21	NA	Acute myocardial infarction
+J01	NA	Acute sinusitis
+K22	NA	Other diseases of esophagus
+H10	NA	Conjunctivitis
+J98	NA	Other respiratory disorders
+J02	NA	Acute pharyngitis
+B01	NA	Varicella
+E14	NA	Unspecified diabetes mellitus
+M23	NA	Internal derangement of knee
+I95	NA	Hypotension
+L57	NA	Skin changes due to chronic exposure to nonionizing radiation
+M20	NA	Acquired deformities of fingers and toes
+N32	NA	Other disorders of bladder
+N81	F	Female genital prolapse
+H60	NA	Otitis externa
+K31	NA	Other diseases of stomach and duodenum
+H91	NA	Other hearing loss
+I50	NA	Heart failure
+M10	NA	Gout
+M65	NA	Synovitis and tenosynovitis
+G47	NA	Sleep disorders
+K30	NA	Functional dyspepsia
+H40	NA	Glaucoma
+J03	NA	Acute tonsillitis
+I80	NA	Phlebitis and thrombophlebitis
+K20	NA	Esophagitis
+B96	NA	Other bacterial agents as the cause of diseases classified elsewhere
+N30	NA	Cystitis
+B02	NA	Zoster [herpes zoster]
+H93	NA	Other disorders of ear, not elsewhere classified
+H35	NA	Other retinal disorders
+N84	F	Polyp of female genital tract
+H02	NA	Other disorders of eyelid
+J34	NA	Other disorders of nose and nasal sinuses
+J90	NA	Pleural effusion, not elsewhere classified
+B07	NA	Viral warts
+A41	NA	Other sepsis
+M48	NA	Other spondylopathies
+M70	NA	Soft tissue disorders related to use, overuse and pressure
+B05	NA	Measles
+M15	NA	Polyosteoarthritis
+M85	NA	Other disorders of bone density and structure
+L72	NA	Follicular cysts of skin and subcutaneous tissue
+N63	F	Unspecified lump in breast
+K76	NA	Other diseases of liver
+H92	NA	Otalgia and effusion of ear
+L40	NA	Psoriasis
+L08	NA	Other local infections of skin and subcutaneous tissue
+H04	NA	Disorders of lacrimal system
+H52	NA	Disorders of refraction and accommodation
+O80	F	Single spontaneous delivery
+I49	NA	Other cardiac arrhythmias
+F43	NA	Reaction to severe stress, and adjustment disorders
+I73	NA	Other peripheral vascular diseases
+I44	NA	Atrioventricular and left bundle-branch block
+H53	NA	Visual disturbances
+J32	NA	Chronic sinusitis
+L20	NA	Atopic dermatitis
+N83	F	Noninflammatory disorders of ovary, fallopian tube and broad ligament
+F10	NA	Mental and behavioural disorders due to use of alcohol
+N64	F	Other disorders of breast
+H81	NA	Disorders of vestibular function
+I26	NA	Pulmonary embolism
+B37	NA	Candidiasis
+K25	NA	Gastric ulcer
+M06	NA	Other rheumatoid arthritis
+N60	F	Benign mammary dysplasia
+I67	NA	Other cerebrovascular diseases
+E86	NA	Volume depletion
+N20	NA	Calculus of kidney and ureter
+H00	NA	Hordeolum and chalazion
+N89	F	Other specified noninflammatory disorders of vagina
+L29	NA	Pruritus
+L02	NA	Cutaneous abscess, furuncle and carbuncle
+M67	NA	Other disorders of synovium and tendon
+H83	NA	Other diseases of inner ear
+N50	M	Other disorders of male genital organs
+N94	F	Pain and other conditions associated with female genital organs and menstrual cycle
+B34	NA	Viral infection of unspecified site
+H43	NA	Disorders of vitreous body
+L60	NA	Nail disorders
+K56	NA	Paralytic ileus and intestinal obstruction without hernia
+N28	NA	Other disorders of kidney and ureter, not elsewhere classified
+B26	NA	Mumps
+N93	F	Abnormal uterine and vaginal bleeding, not elsewhere classified
+L50	NA	Urticaria
+I63	NA	Cerebral infarction
+E83	NA	Disorders of mineral metabolism
+J11	NA	Influenza due to unidentified influenza virus
+G45	NA	Transient cerebral ischemic attacks and related syndromes
+H66	NA	Suppurative and unspecified otitis media
+I64	NA	Stroke, not specified as hemorrhage or infarction
+J40	NA	Bronchitis, not specified as acute or chronic
+K26	NA	Duodenal ulcer
+L21	NA	Seborrheic dermatitis
+N80	F	Endometriosis
+I35	NA	Nonrheumatic aortic valve disorders
+B95	NA	Streptococcus as the cause of diseases classified elsewhere
+K66	NA	Other disorders of peritoneum
+G55	NA	Nerve root and plexus compressions in diseases classified elsewhere
+I08	NA	Multiple valve diseases
+K42	NA	Umbilical hernia
+J96	NA	Respiratory failure, not elsewhere classified
+H90	NA	Conductive and sensorineural hearing loss
+F05	NA	Delirium, not induced by alcohol and other psychoactive substances
+G40	NA	Epilepsy
+I47	NA	Paroxysmal tachycardia
+I45	NA	Other conduction disorders
+H11	NA	Other disorders of conjunctiva
+A04	NA	Other bacterial intestinal infections
+N85	F	Other noninflammatory disorders of uterus, except cervix
+E05	NA	Thyrotoxicosis [hyperthyroidism]
+I34	NA	Nonrheumatic mitral valve disorders
+M76	NA	Enthesopathies of lower limb, excluding foot
+K04	NA	Diseases of pulp and periapical tissues
+H57	NA	Other disorders of eye and adnexa
+N87	F	Dysplasia of cervix uteri
+J33	NA	Nasal polyp
+M35	NA	Systemic involvement of connective tissue
+K13	NA	Other diseases of lip and oral mucosa
+K43	NA	Ventral hernia
+N48	M	Other disorders of penis
+N13	NA	Obstructive and reflux uropathy
+D70	NA	Agranulocytosis
+H33	NA	Retinal detachments and breaks
+K37	NA	Unspecified appendicitis
+G93	NA	Other disorders of brain
+J47	NA	Bronchiectasis
+M43	NA	Deforming dorsopathies
+J31	NA	Chronic rhinitis, nasopharyngitis and pharyngitis
+K60	NA	Fissure and fistula of anal and rectal regions
+K81	NA	Cholecystitis
+N90	F	Other noninflammatory disorders of vulva and perineum
+L90	NA	Other atrophic disorders of skin
+O70	F	Perineal laceration during delivery
+K51	NA	Ulcerative colitis
+M53	NA	Other dorsopathies, not elsewhere classified
+L71	NA	Rosacea
+E55	NA	Vitamin D deficiency
+L89	NA	Pressure ulcer
+M21	NA	Other acquired deformities of limbs
+D69	NA	Purpura and other hemorrhagic conditions
+K83	NA	Other diseases of biliary tract
+N35	NA	Urethral stricture
+H01	NA	Other inflammation of eyelid
+L70	NA	Acne
+J43	NA	Emphysema
+H65	NA	Nonsuppurative otitis media
+B06	NA	Rubella [German measles]
+G25	NA	Other extrapyramidal and movement disorders
+K02	NA	Dental caries
+M89	NA	Other disorders of bone
+G44	NA	Other headache syndromes
+K90	NA	Intestinal malabsorption
+H18	NA	Other disorders of cornea
+G62	NA	Other polyneuropathies
+K35	NA	Acute appendicitis
+E04	NA	Other nontoxic goiter
+A08	NA	Viral and other specified intestinal infections
+B36	NA	Other superficial mycoses
+N23	NA	Unspecified renal colic
+J00	NA	Acute nasopharyngitis [common cold]
+O03	F	Spontaneous abortion
+J20	NA	Acute bronchitis
+G57	NA	Mononeuropathies of lower limb
+I71	NA	Aortic aneurysm and dissection
+M24	NA	Other specific joint derangements
+K08	NA	Other disorders of teeth and supporting structures
+M62	NA	Other disorders of muscle
+M46	NA	Other inflammatory spondylopathies
+I24	NA	Other acute ischemic heart diseases
+F03	NA	Unspecified dementia
+N73	F	Other female pelvic inflammatory diseases
+B00	NA	Herpesviral [herpes simplex] infections
+M50	NA	Cervical disc disorders
+L91	NA	Hypertrophic disorders of skin
+E53	NA	Deficiency of other B group vitamins
+N31	NA	Neuromuscular dysfunction of bladder, not elsewhere classified
+N76	F	Other inflammation of vagina and vulva
+K85	NA	Acute pancreatitis
+E10	NA	Type 1 diabetes mellitus
+N41	M	Inflammatory diseases of prostate
+G81	NA	Hemiplegia
+E16	NA	Other disorders of pancreatic internal secretion
+K82	NA	Other diseases of gallbladder
+L81	NA	Other disorders of pigmentation
+M41	NA	Scoliosis
+J84	NA	Other interstitial pulmonary diseases
+H36	NA	Retinal disorders in diseases classified elsewhere
+B98	NA	Other specified infectious agents as the cause of diseases classified elsewhere
+J04	NA	Acute laryngitis and tracheitis
+B97	NA	Viral agents as the cause of diseases classified elsewhere
+N47	M	Disorders of prepuce
+K12	NA	Stomatitis and related lesions
+M84	NA	Disorders of continuity of bone
+G20	NA	Parkinson's disease
+I70	NA	Atherosclerosis
+G30	NA	Alzheimer's disease
+F40	NA	Phobic anxiety disorders
+H54	NA	Visual impairment including blindness (binocular or monocular)
+J38	NA	Diseases of vocal cords and larynx, not elsewhere classified
+L97	NA	Non-pressure chronic ulcer of lower limb, not elsewhere classified
+J69	NA	Pneumonitis due to solids and liquids
+L85	NA	Other epidermal thickening
+K14	NA	Diseases of tongue
+O04	F	Medical abortion
+O68	F	Labor and delivery complicated by fetal stress [distress]
+F33	NA	Major depressive disorder, recurrent
+N97	F	Female infertility
+I31	NA	Diseases of pericardium
+B27	NA	Infectious mononucleosis
+K65	NA	Peritonitis
+M71	NA	Other bursopathies
+K86	NA	Other diseases of pancreas
+J93	NA	Pneumothorax
+I69	NA	Sequelae of cerebrovascular disease
+K55	NA	Vascular disorders of intestine
+L73	NA	Other follicular disorders
+I42	NA	Cardiomyopathy
+N42	M	Other disorders of prostate
+K91	NA	Intraoperative and postprocedural complications and disorders of digestive system, not elsewhere classified
+L84	NA	Corns and callosities
+I77	NA	Other disorders of arteries and arterioles
+D51	NA	Vitamin B12 deficiency anemia
+K11	NA	Diseases of salivary glands
+G51	NA	Facial nerve disorders
+E89	NA	Postprocedural endocrine and metabolic complications and disorders, not elsewhere classified
+G31	NA	Other degenerative diseases of nervous system, not elsewhere classified
+N19	NA	Unspecified kidney failure
+C34	NA	Malignant neoplasm of bronchus and lung
+J12	NA	Viral pneumonia
+K50	NA	Crohn's disease [regional enteritis]
+I46	NA	Cardiac arrest
+N88	F	Other noninflammatory disorders of cervix uteri
+G50	NA	Disorders of trigeminal nerve
+I27	NA	Other pulmonary heart diseases
+A37	NA	Whooping cough
+L25	NA	Unspecified contact dermatitis
+K61	NA	Abscess of anal and rectal regions
+M22	NA	Disorder of patella
+I89	NA	Other noninfective disorders of lymphatic vessels and lymph nodes
+K75	NA	Other inflammatory liver diseases
+A49	NA	Bacterial infection of unspecified site
+F00	NA	Dementia in Alzheimer disease
+J92	NA	Pleural plaque
+N45	M	Orchitis and epididymitis
+I65	NA	Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction
+I78	NA	Diseases of capillaries
+F45	NA	Somatoform disorders
+E07	NA	Other disorders of thyroid
+M18	NA	Osteoarthritis of first carpometacarpal joint
+L65	NA	Other nonscarring hair loss
+K74	NA	Fibrosis and cirrhosis of liver
+D75	NA	Other and unspecified diseases of blood and blood-forming organs
+N43	M	Hydrocele and spermatocele
+H34	NA	Retinal vascular occlusions
+H20	NA	Iridocyclitis
+G58	NA	Other mononeuropathies
+M94	NA	Other disorders of cartilage
+E21	NA	Hyperparathyroidism and other disorders of parathyroid gland
+M86	NA	Osteomyelitis
+O16	F	Unspecified maternal hypertension
+H50	NA	Other strabismus
+G99	NA	Other disorders of nervous system, not elsewhere classified
+N12	NA	Tubulo-interstitial nephritis, not specified as acute or chronic
+K01	NA	Embedded and impacted teeth
+H69	NA	Other and unspecified disorders of Eustachian tube
+M80	NA	Osteoporosis with current pathological fracture
+K07	NA	Dentofacial anomalies [including malocclusion]
+L43	NA	Lichen planus
+D68	NA	Other coagulation defects
+O82	F	Single delivery by cesarean section
+K46	NA	Unspecified abdominal hernia
+A15	NA	Respiratory tuberculosis, bacteriologically and histologically confirmed
+G35	NA	Multiple sclerosis
+H68	NA	Eustachian salpingitis and obstruction
+I61	NA	Nontraumatic intracerebral hemorrhage
+F31	NA	Bipolar disorder
+G03	NA	Meningitis due to other and unspecified causes
+F52	NA	Sexual dysfunction, not caused by organic disorder or disease
+B86	NA	Scabies
+K70	NA	Alcoholic liver disease
+O99	F	Other maternal diseases classifiable elsewhere but complicating pregnancy, childbirth and the puerperium
+N91	F	Absent, scanty and rare menstruation
+I74	NA	Arterial embolism and thrombosis
+O63	F	Long labor
+N75	F	Diseases of Bartholin's gland
+I86	NA	Varicose veins of other sites
+O02	F	Other abnormal products of conception
+O36	F	Maternal care for other fetal problems
+O26	F	Maternal care for other conditions predominantly related to pregnancy
+I87	NA	Other disorders of veins
+M95	NA	Other acquired deformities of musculoskeletal system and connective tissue
+E28	F	Ovarian dysfunction
+F01	NA	Vascular dementia
+H72	NA	Perforation of tympanic membrane
+G98	NA	Other disorders of nervous system
+M45	NA	Ankylosing spondylitis
+M31	NA	Other necrotizing vasculopathies
+H44	NA	Disorders of globe
+N62	F	Hypertrophy of breast
+N72	F	Inflammatory disease of cervix uteri
+I60	NA	Nontraumatic subarachnoid hemorrhage
+G95	NA	Other and unspecified diseases of spinal cord
+A38	NA	Scarlet fever
+K05	NA	Gingivitis and periodontal diseases
+N61	F	Inflammatory disorders of breast
+I12	NA	Hypertensive chronic kidney disease
+K10	NA	Other diseases of jaws
+I07	NA	Rheumatic tricuspid valve diseases
+N99	NA	Postprocedural disorders of genitourinary system, not elsewhere classified
+N86	F	Erosion and ectropion of cervix uteri
+D86	NA	Sarcoidosis
+E80	NA	Disorders of porphyrin and bilirubin metabolism
+O72	F	Postpartum hemorrhage
+L92	NA	Granulomatous disorders of skin and subcutaneous tissue
+N21	NA	Calculus of lower urinary tract
+O81	F	Single delivery by forceps and vacuum extractor
+J39	NA	Other diseases of upper respiratory tract
+J35	NA	Chronic disease of tonsils and adenoids
+L53	NA	Other erythematous conditions
+D63	NA	Anemia in chronic diseases classified elsewhere
+K27	NA	Peptic ulcer, site unspecified
+A63	NA	Other predominantly sexually transmitted diseases, not elsewhere classified
+O34	F	Maternal care for known or suspected abnormality of pelvic organs
+D72	NA	Other disorders of white blood cells
+H16	NA	Keratitis
+N36	NA	Other disorders of urethra
+E88	NA	Other metabolic disorders
+E27	NA	Other disorders of adrenal gland
+H47	NA	Other disorders of optic nerve [and optic tract]
+J10	NA	Influenza due to other identified influenza virus
+I72	NA	Other aneurysm
+D61	NA	Other aplastic anemias
+F06	NA	Other mental disorders due to brain damage and dysfunction and to physical disease
+E61	NA	Deficiency of other nutrient elements
+I00	NA	Rheumatic fever without mention of heart involvement
+K41	NA	Femoral hernia
+Q82	NA	Other congenital malformations of skin
+L42	NA	Pityriasis rosea
+L28	NA	Lichen simplex chronicus and prurigo
+N02	NA	Recurrent and persistent hematuria
+J15	NA	Bacterial pneumonia, not elsewhere classified
+N10	NA	Acute tubulo-interstitial nephritis
+M07	NA	Enteropathic arthropathies
+C25	NA	Malignant neoplasm of pancreas
+G63	NA	Polyneuropathy in diseases classified elsewhere
+L05	NA	Pilonidal cyst
+G83	NA	Other paralytic syndromes
+M66	NA	Spontaneous rupture of synovium and tendon
+C50	F	Malignant neoplasm of breast
+I62	NA	Nontraumatic intracranial hemorrhage
+O20	F	Hemorrhage in early pregnancy
+D73	NA	Diseases of spleen
+L24	NA	Irritant contact dermatitis
+O32	F	Maternal care for malpresentation of fetus
+I82	NA	Other venous embolism and thrombosis
+H21	NA	Other disorders of iris and ciliary body
+E06	NA	Thyroiditis
+L01	NA	Impetigo
+L27	NA	Dermatitis due to substances taken internally
+L23	NA	Allergic contact dermatitis
+M05	NA	Seropositive rheumatoid arthritis
+G54	NA	Nerve root and plexus disorders
+O48	F	Prolonged pregnancy
+Q21	NA	Congenital malformations of cardiac septa
+B99	NA	Other infectious diseases
+F53	F	Puerperal psychosis
+M96	NA	Postprocedural musculoskeletal disorders, not elsewhere classified
+K72	NA	Hepatic failure, not elsewhere classified
+J81	NA	Pulmonary edema
+H15	NA	Other disorders of sclera
+U07	NA	Emergency use of U07
+M11	NA	Other crystal arthropathies
+B19	NA	Unspecified viral hepatitis
+G24	NA	Dystonia
+I85	NA	Esophageal varices
+G91	NA	Hydrocephalus
+O47	F	False labor
+C61	M	Malignant neoplasm of prostate
+E23	NA	Hypofunction and other disorders of pituitary gland
+E22	NA	Hyperfunction of pituitary gland
+F20	NA	Schizophrenia
+O42	F	Premature rupture of membranes
+H05	NA	Disorders of orbit
+N03	NA	Chronic nephritic syndrome
+M87	NA	Osteonecrosis
+F02	NA	Dementia in other diseases classified elsewhere
+I38	NA	Endocarditis, valve unspecified
+M40	NA	Kyphosis and lordosis
+Q66	NA	Congenital deformities of feet
+B15	NA	Acute hepatitis A
+F48	NA	Other neurotic disorders
+L74	NA	Sudoriferous disorders
+L80	NA	Vitiligo
+N34	NA	Urethritis and urethral syndrome
+C18	NA	Malignant neoplasm of colon
+N08	NA	Glomerular disorders in diseases classified elsewhere
+H80	NA	Otosclerosis
+N70	F	Salpingitis and oophoritis
+J13	NA	Pneumonia due to Streptococcus pneumoniae
+Q61	NA	Cystic kidney disease
+B08	NA	Other viral infections characterized by skin and mucous membrane lesions
+D52	NA	Folate deficiency anemia
+M90	NA	Osteopathies in diseases classified elsewhere
+I11	NA	Hypertensive heart disease
+H31	NA	Other disorders of choroid
+M00	NA	Pyogenic arthritis
+I37	NA	Endocarditis and heart valve disorders in diseases classified elsewhere
+C15	NA	Malignant neoplasm of esophagus
+F39	NA	Unspecified mood [affective] disorder
+L13	NA	Other bullous disorders
+C80	NA	Malignant neoplasm without specification of site
+J36	NA	Peritonsillar abscess
+O00	F	Ectopic pregnancy
+F42	NA	Obsessive-compulsive disorder
+I05	NA	Rheumatic mitral valve diseases
+F34	NA	Persistent mood [affective] disorders
+M32	NA	Systemic lupus erythematosus
+H74	NA	Other disorders of middle ear and mastoid
+K09	NA	Cysts of oral region, not elsewhere classified
+F50	NA	Eating disorders
+J94	NA	Other pleural conditions
+H49	NA	Paralytic strabismus
+O75	F	Other complications of labor and delivery
+I22	NA	Subsequent myocardial infarction
+C71	NA	Malignant neoplasm of brain
+A40	NA	Streptococcal sepsis
+G04	NA	Encephalitis, myelitis and encephalomyelitis
+M93	NA	Other osteochondropathies
+O60	F	Preterm labor
+K06	NA	Other disorders of gingiva and edentulous alveolar ridge
+N05	NA	Unspecified nephritic syndrome
+F60	NA	Specific personality disorders
+G12	NA	Spinal muscular atrophy and related syndromes
+L63	NA	Alopecia areata
+J86	NA	Pyothorax
+Q76	NA	Congenital malformations of spine and bony thorax
+J95	NA	Postprocedural respiratory disorders, not elsewhere classified
+J61	NA	Pneumoconiosis due to asbestos and other mineral fibers
+G90	NA	Disorders of autonomic nervous system
+B54	NA	Unspecified malaria
+J42	NA	Unspecified chronic bronchitis
+D89	NA	Other disorders involving the immune mechanism, not elsewhere classified
+A02	NA	Other salmonella infections
+M60	NA	Myositis
+H55	NA	Nystagmus and other irregular eye movements
+Q23	NA	Congenital malformations of aortic and mitral valves
+H71	NA	Cholesteatoma of middle ear
+H73	NA	Other disorders of tympanic membrane
+B80	NA	Enterobiasis
+O46	F	Antepartum hemorrhage, not elsewhere classified
+L04	NA	Acute lymphadenitis
+O13	F	Gestational [pregnancy-induced] hypertension without significant proteinuria
+O69	F	Labor and delivery complicated by umbilical cord complications
+H27	NA	Other disorders of lens
+I30	NA	Acute pericarditis
+M12	NA	Other and unspecified arthropathy
+C22	NA	Malignant neoplasm of liver and intrahepatic bile ducts
+C56	F	Malignant neoplasm of ovary
+Q63	NA	Other congenital malformations of kidney
+G61	NA	Inflammatory polyneuropathy
+I36	NA	Nonrheumatic tricuspid valve disorders
+M92	NA	Juvenile osteochondrosis of hip and pelvis
+I98	NA	Other disorders of circulatory system in diseases classified elsewhere
+G82	NA	Paraplegia and tetraplegia
+I33	NA	Acute and subacute endocarditis
+L56	NA	Other acute skin changes due to ultraviolet radiation
+B18	NA	Chronic viral hepatitis
+O24	F	Diabetes mellitus in pregnancy, childbirth, and the puerperium
+Q38	NA	Other congenital malformations of tongue, mouth and pharynx
+K38	NA	Other diseases of appendix
+F22	NA	Persistent delusional disorders
+E46	NA	Unspecified protein-calorie malnutrition
+G37	NA	Other demyelinating diseases of central nervous system
+I99	NA	Other and unspecified disorders of circulatory system
+F29	NA	Unspecified psychosis not due to a substance or known physiological condition
+L94	NA	Other localized connective tissue disorders
+H59	NA	Postprocedural disorders of eye and adnexa, not elsewhere classified
+G96	NA	Other disorders of central nervous system
+O30	F	Multiple gestation
+Q43	NA	Other congenital malformations of intestine
+C64	NA	Malignant neoplasm of kidney, except renal pelvis
+F51	NA	Sleep disorders not due to a substance or known physiological condition
+J37	NA	Chronic laryngitis and laryngotracheitis
+E29	M	Testicular dysfunction
+M99	NA	Biomechanical lesions, not elsewhere classified
+J91	NA	Pleural effusion in conditions classified elsewhere
+Q53	M	Undescended and ectopic testicle
+G60	NA	Hereditary and idiopathic neuropathy
+N49	M	Inflammatory disorders of male genital organs, not elsewhere classified
+A16	NA	Respiratory tuberculosis, not confirmed bacteriologically or histologically
+J99	NA	Respiratory disorders in diseases classified elsewhere
+E13	NA	Other specified diabetes mellitus
+H46	NA	Optic neuritis
+E79	NA	Disorders of purine and pyrimidine metabolism
+N46	M	Male infertility
+G70	NA	Myasthenia gravis and other myoneural disorders
+A07	NA	Protozoal intestinal diseases
+B49	NA	Unspecified mycosis
+N71	F	Inflammatory disease of uterus, except cervix
+E85	NA	Amyloidosis
+H17	NA	Scars and other disorders of cornea
+E73	NA	Lactose intolerance
+F09	NA	Unspecified organic or symptomatic mental disorder
+O62	F	Abnormalities of forces of labor
+A87	NA	Viral meningitis
+N77	F	Other inflammatory diseases of vagina
+O14	F	Gestational [pregnancy-induced] hypertension with significant proteinuria
+A80	NA	Acute poliomyelitis
+J46	NA	Status asthmaticus
+I81	NA	Portal vein thrombosis
+G52	NA	Disorders of other cranial nerves
+M88	NA	Osteitis deformans [Paget's disease of bone]
+F30	NA	Manic episode
+O06	F	Unspecified abortion
+O64	F	Obstructed labor due to malposition and malpresentation of fetus
+C16	NA	Malignant neoplasm of stomach
+C67	NA	Malignant neoplasm of bladder
+L93	NA	Lupus erythematosus
+N26	NA	Unspecified contracted kidney
+D80	NA	Immunodeficiency with predominantly antibody defects
+I88	NA	Nonspecific lymphadenitis
+B44	NA	Aspergillosis
+C92	NA	Myeloid leukemia
+G72	NA	Other and unspecified myopathies
+L68	NA	Hypertrichosis
+N04	NA	Nephrotic syndrome in diseases classified elsewhere
+D62	NA	Acute posthemorrhagic anemia
+Q24	NA	Other congenital malformations of heart
+M34	NA	Systemic sclerosis [scleroderma]
+F81	NA	Specific developmental disorders of scholastic skills
+F99	NA	Mental disorder, not otherwise specified
+C19	NA	Malignant neoplasm of rectosigmoid junction
+C90	NA	Multiple myeloma and malignant plasma cell neoplasms
+E74	NA	Other disorders of carbohydrate metabolism
+J80	NA	Acute respiratory distress syndrome
+A60	NA	Anogenital herpesviral [herpes simplex] infection
+C20	NA	Malignant neoplasm of rectum
+B17	NA	Other acute viral hepatitis
+E34	NA	Other endocrine disorders
+M49	NA	Spondylopathies in diseases classified elsewhere
+G11	NA	Hereditary ataxia
+O66	F	Other obstructed labor
+C43	NA	Melanoma and other malignant neoplasms of skin
+L55	NA	Sunburn
+Q05	NA	Congenital malformations of spinal cord
+C45	NA	Mesothelioma
+Q89	NA	Other congenital malformations, not elsewhere classified
+J17	NA	Pneumonia in diseases classified elsewhere
+F66	NA	Psychological and behavioural disorders associated with sexual development and orientation
+N82	F	Fistulae involving female genital tract
+I97	NA	Postprocedural disorders of circulatory system, not elsewhere classified
+G06	NA	Intracranial and intraspinal abscess and granuloma
+G23	NA	Other degenerative diseases of basal ganglia
+F12	NA	Mental and behavioural disorders due to use of cannabinoids
+B24	NA	Unspecified human immunodeficiency virus [HIV] disease
+C85	NA	Other specified and unspecified types of non-Hodgkin lymphoma
+G41	NA	Status epilepticus
+D59	NA	Acquired hemolytic anemia
+A05	NA	Other bacterial foodborne intoxications, not elsewhere classified
+Q85	NA	Phakomatoses, not elsewhere classified
+Q60	NA	Renal agenesis and other reduction defects of kidney
+G97	NA	Postprocedural disorders of nervous system, not elsewhere classified
+F44	NA	Dissociative and conversion disorders
+Q40	NA	Other congenital malformations of upper alimentary tract
+Q65	NA	Congenital deformities of hip
+Q51	F	Congenital malformations of uterus and cervix
+L95	NA	Vasculitis limited to skin, not elsewhere classified
+A46	NA	Erysipelas
+Q27	NA	Other congenital malformations of peripheral vascular system
+Q67	NA	Congenital musculoskeletal deformities of head, face, spine and chest
+G71	NA	Primary disorders of muscles
+N11	NA	Chronic tubulo-interstitial nephritis
+F25	NA	Schizoaffective disorders
+O21	F	Excessive vomiting in pregnancy
+F80	NA	Specific developmental disorders of speech and language
+Q79	NA	Congenital malformations of the musculoskeletal system, not elsewhere classified
+L51	NA	Erythema multiforme
+B16	NA	Acute hepatitis B
+F19	NA	Mental and behavioural disorders due to multiple drug use and use of other psychoactive substances
+G59	NA	Mononeuropathy in diseases classified elsewhere
+O91	F	Infections of breast associated with childbirth
+C26	NA	Malignant neoplasm of other and ill-defined digestive organs
+G21	NA	Secondary parkinsonism
+O35	F	Maternal care for known or suspected fetal abnormality and damage
+K00	NA	Disorders of tooth development and eruption
+F23	NA	Acute and transient psychotic disorders
+Q87	NA	Other specified congenital malformation syndromes affecting multiple systems
+Q12	NA	Congenital lens deformities
+G80	NA	Cerebral palsy
+A69	NA	Other spirochetal infections
+Q14	NA	Congenital malformations of retina, choroid and iris
+B85	NA	Pediculosis and phthiriasis
+O41	F	Other disorders of amniotic fluid and membranes
+N00	NA	Acute nephritic syndrome
+L52	NA	Erythema nodosum
+K45	NA	Other abdominal hernia
+K73	NA	Chronic hepatitis, not elsewhere classified
+Q39	NA	Congenital malformations of esophagus
+M14	NA	Crystal arthropathies
+F84	NA	Pervasive developmental disorders
+F11	NA	Mental and behavioural disorders due to use of opioids
+H70	NA	Mastoiditis and related conditions
+G46	NA	Vascular syndromes of brain in cerebrovascular diseases
+Q44	NA	Congenital malformations of biliary system
+Q54	M	Hypospadias
+Q50	F	Congenital malformations of ovaries, fallopian tubes and broad ligaments
+G53	NA	Cranial nerve disorders in diseases classified elsewhere
+J85	NA	Abscess of lung and mediastinum
+I15	NA	Secondary hypertension
+O23	F	Infections of genitourinary tract in pregnancy
+O73	F	Retained placenta and membranes, without hemorrhage
+M02	NA	Reactive arthropathies
+O86	F	Other puerperal infections
+O71	F	Other obstetric trauma
+L12	NA	Pemphigoid
+J14	NA	Pneumonia due to Hemophilus influenzae
+G64	NA	Other disorders of peripheral nervous system
+F13	NA	Mental and behavioural disorders due to use of sedatives or hypnotics
+Q74	NA	Other congenital malformations of limb(s)
+D53	NA	Other nutritional anemias
+O43	F	Placental disorders
+O90	F	Complications of the puerperium, not elsewhere classified
+J67	NA	Hypersensitivity pneumonitis due to organic dust
+Q28	NA	Other congenital malformations of circulatory system
+M33	NA	Dermatopolymyositis
+Q25	NA	Congenital malformations of great arteries
+B25	NA	Cytomegaloviral disease
+E56	NA	Other vitamin deficiencies
+E20	NA	Hypoparathyroidism
+N25	NA	Disorders resulting from impaired renal tubular function
+H30	NA	Chorioretinal inflammation
+H51	NA	Other disorders of binocular movement
+F07	NA	Personality and behavioral disorders due to brain disease, damage and dysfunction
+A54	NA	Gonococcal infection
+D58	NA	Other hereditary hemolytic anemias
+Q18	NA	Other congenital malformations of face and neck
+I66	NA	Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction
+N44	M	Torsion of testis
+N15	NA	Other renal tubulo-interstitial diseases
+J82	NA	Pulmonary eosinophilia, not elsewhere classified
+G00	NA	Bacterial meningitis, not elsewhere classified
+H58	NA	Other disorders of eye and adnexa
+C83	NA	Non-follicular lymphoma
+B91	NA	Sequelae of poliomyelitis
+C54	F	Malignant neoplasm of corpus uteri
+L83	NA	Acanthosis nigricans
+K71	NA	Toxic liver disease
+E02	NA	Subclinical iodine-deficiency hypothyroidism
+H06	NA	Other disorders of lacrimal gland
+O01	F	Hydatidiform mole
+B33	NA	Other viral diseases, not elsewhere classified
+O44	F	Placenta previa
+E24	NA	Cushing's syndrome
+M30	NA	Polyarteritis nodosa and related conditions
+A42	NA	Actinomycosis
+O92	F	Other disorders of breast and lactation associated with childbirth
+K36	NA	Other appendicitis
+D84	NA	Other immunodeficiencies
+O12	F	Gestational edema and proteinuria without hypertension
+Q78	NA	Other osteochondrodysplasias
+Q52	F	Other congenital malformations of female genitalia
+W19	NA	Unspecified fall
+M91	NA	Juvenile osteochondrosis of hip and pelvis
+H19	NA	Other keratitis
+A03	NA	Shigellosis
+D56	NA	Thalassemia
+J70	NA	Respiratory conditions due to other external agents
+P96	NA	Other conditions originating in the perinatal period
+L66	NA	Cicatricial alopecia
+A48	NA	Other bacterial diseases, not elsewhere classified
+B59	NA	Pneumocystosis
+I68	NA	Other cerebrovascular disorders in diseases classified elsewhere
+G94	NA	Other disorders of brain in diseases classified elsewhere
+B88	NA	Other infestations
+E26	NA	Hyperaldosteronism
+M82	NA	Osteoporosis in diseases classified elsewhere
+I79	NA	Disorders of arteries, arterioles and capillaries in diseases classified elsewhere
+J05	NA	Acute obstructive laryngitis [croup] and epiglottitis
+K03	NA	Other diseases of hard tissues of teeth
+B30	NA	Viral conjunctivitis
+J21	NA	Acute bronchiolitis
+O61	F	Failed induction of labor
+I13	NA	Hypertensive heart and chronic kidney disease
+Q64	NA	Other congenital malformations of urinary system
+F38	NA	Other mood [affective] disorders
+Q62	NA	Congenital obstructive defects of renal pelvis and congenital malformations of ureter
+B94	NA	Sequelae of other and unspecified infectious and parasitic diseases
+F79	NA	Unspecified intellectual disabilities
+G05	NA	Encephalitis, myelitis and encephalomyelitis in diseases classified elsewhere
+M42	NA	Spinal osteochondrosis
+F98	NA	Other behavioral and emotional disorders with onset usually occurring in childhood and adolescence
+H95	NA	Postprocedural disorders of ear and mastoid process, not elsewhere classified
+H13	NA	Other disorders of conjunctiva in diseases classified elsewhere
+P03	NA	Newborn affected by other complications of labor and delivery
+A31	NA	Infection due to other mycobacteria
+C49	NA	Malignant neoplasm of other connective and soft tissue
+Q55	M	Other congenital malformations of male genital organs
+A36	NA	Diphtheria
+Q07	NA	Other congenital malformations of nervous system
+I28	NA	Other diseases of pulmonary vessels
+F69	NA	Unspecified disorder of adult personality and behavior
+X70	NA	Intentional self-harm by hanging, strangulation and suffocation
+Q10	NA	Congenital malformations of eyelid, lacrimal apparatus and orbit
+O87	F	Venous complications in the puerperium
+E84	NA	Cystic fibrosis
+N27	NA	Small kidney of unknown cause
+O28	F	Abnormal findings on antenatal screening of mother
+R99	NA	Other ill-defined and unspecified causes of mortality
+K28	NA	Gastrojejunal ulcer
+C91	NA	Lymphoid leukemia
+I43	NA	Cardiomyopathy in diseases classified elsewhere
+Q83	F	Other congenital malformations of breast
+A86	NA	Unspecified viral encephalitis
+O40	F	Polyhydramnios
+F91	NA	Conduct disorders
+L11	NA	Other acantholytic disorders
+D76	NA	Other specified diseases with participation of lymphoreticular and reticulohistiocytic tissue
+D66	NA	Hereditary factor VIII deficiency
+A18	NA	Tuberculosis of other organs
+L64	NA	Androgenic alopecia
+P95	NA	Fetal death of unspecified cause
+E65	NA	Localized adiposity
+Q80	NA	Congenital ichthyosis
+J41	NA	Simple and mucopurulent chronic bronchitis
+O22	F	Venous complications and hemorrhoids in pregnancy
+G08	NA	Intracranial and intraspinal phlebitis and thrombophlebitis
+M83	NA	Adult osteomalacia
+I09	NA	Rheumatic heart diseases, specified as chronic
+Q17	NA	Other congenital malformations of ear
+O67	F	Labor and delivery complicated by intrapartum hemorrhage, not elsewhere classified
+H28	NA	Cataract in diseases classified elsewhere
+L41	NA	Parapsoriasis
+A01	NA	Typhoid and paratyphoid fevers
+A35	NA	Other tetanus
+Q84	NA	Other congenital malformations of skin
+A06	NA	Amoebiasis
+B65	NA	Schistosomiasis [bilharziasis]
+A39	NA	Meningococcal infection
+Q68	NA	Other congenital musculoskeletal deformities
+I06	NA	Rheumatic aortic valve diseases
+E75	NA	Other disorders of sphingolipid metabolism and other lipid storage disorders
+O10	F	Pre-existing hypertension complicating pregnancy, childbirth and the puerperium
+K23	NA	Disorders of esophagus in diseases classified elsewhere
+G09	NA	Sequelae of inflammatory diseases of central nervous system
+M08	NA	Juvenile arthritis
+O15	F	Eclampsia
+I23	NA	Certain current complications following acute myocardial infarction
+N14	NA	Drug- and heavy-metal-induced tubulo-interstitial and tubular conditions
+E01	NA	Iodine-deficiency-related thyroid disorders and allied conditions
+C48	NA	Malignant neoplasm of retroperitoneum and peritoneum
+Q30	NA	Congenital malformations of nose
+Q04	NA	Other congenital malformations of brain
+I40	NA	Acute myocarditis
+D65	NA	Disseminated intravascular coagulation [defibrination syndrome]
+J16	NA	Pneumonia due to other infectious organisms, not elsewhere classified
+L88	NA	Pyoderma gangrenosum
+E72	NA	Other disorders of amino-acid metabolism
+G02	NA	Meningitis in other infectious and parasitic diseases classified elsewhere
+C23	NA	Malignant neoplasm of gallbladder
+H03	NA	Other disorders of eyelid
+B82	NA	Unspecified intestinal parasitism
+Q45	NA	Other congenital malformations of digestive system
+D46	NA	Myelodysplastic syndromes
+M61	NA	Other disorders of muscle
+G14	NA	Postpolio syndrome
+F15	NA	Mental and behavioural disorders due to use of other stimulants, including caffeine
+J60	NA	Coalworker's pneumoconiosis
+O33	F	Maternal care for disproportion
+Q99	NA	Other chromosome abnormalities, not elsewhere classified
+L10	NA	Pemphigus
+O98	F	Maternal infectious and parasitic diseases classifiable elsewhere but complicating pregnancy, childbirth and the puerperium
+O85	F	Puerperal sepsis
+B83	NA	Other helminthiases
+E51	NA	Thiamine deficiency
+B50	NA	Plasmodium falciparum malaria
+A59	NA	Trichomoniasis
+Q31	NA	Congenital malformations of larynx
+N16	NA	Renal tubulo-interstitial disorders in diseases classified elsewhere
+A81	NA	Atypical virus infections of central nervous system
+W10	NA	Fall on and from stairs and steps
+F90	NA	Attention-deficit hyperactivity disorders
+A95	NA	Yellow fever
+C84	NA	Mature T/NK-cell lymphomas
+C17	NA	Malignant neoplasm of small intestine
+A56	NA	Other sexually transmitted chlamydial diseases
+O08	F	Complications following abortion and ectopic and molar pregnancy
+F14	NA	Mental and behavioural disorders due to use of cocaine
+Y83	NA	Surgical operation as the cause of abnormal reaction of patient, or of later complication, without mention of misadventure at the time of operation
+E63	NA	Other nutritional deficiencies
+C55	F	Malignant neoplasm of uterus, part unspecified
+G32	NA	Other degenerative disorders of nervous system, not elsewhere classified
+L59	NA	Other disorders of skin and subcutaneous tissue related to radiation
+Q33	NA	Congenital malformations of lung
+G10	NA	Huntington's disease
+L44	NA	Other papulosquamous disorders
+F70	NA	Mild intellectual disabilities
+Q16	NA	Congenital malformations of ear causing impairment of hearing
+X59	NA	Exposure to unspecified factor
+A90	NA	Dengue fever [classical dengue]
+A28	NA	Other zoonotic bacterial diseases, not elsewhere classified
+N29	NA	Other disorders of kidney and ureter in diseases classified elsewhere
+H22	NA	Other disorders of iris and ciliary body in diseases classified elsewhere
+C44	NA	Other malignant neoplasms of skin
+H62	NA	Other disorders of external ear in diseases classified elsewhere
+C02	NA	Malignant neoplasm of other and unspecified parts of tongue
+C82	NA	Follicular lymphoma
+Q22	NA	Congenital malformations of pulmonary and tricuspid valves
+J64	NA	Unspecified pneumoconiosis
+F63	NA	Habit and impulse disorders
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+

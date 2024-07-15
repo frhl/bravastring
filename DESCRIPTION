@@ -50,4 +50,5 @@ Collate:
     'calc_inflation.R'
     'get_expected_p.R'
     'map_icd_to_chapter.R'
+    'icd_sex_path.R'
 RoxygenNote: 7.2.3

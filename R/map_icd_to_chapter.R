@@ -13,44 +13,48 @@ map_icd_to_chapter <- function(icd_code) {
   icd_code <- as.character(icd_code)
   
   # Extract the first three characters of the ICD-10 code to handle ranges like "A00-B99"
-  three_digit_code <- substr(icd_code, 1, 3)
+  two_digit_code <- substr(icd_code, 1, 3)
   
-  # Define the mapping of three-digit ICD-10 codes to chapters
-  icd_chapters <- c(
-    A = "Infectious", B = "Infectious",
-    C = "Neoplasms", D1 = "Neoplasms", D2 = "Blood/immune", 
-    E = "Endocrine/metabolic",
-    F = "Mental/behavioral",
-    G = "Nervous",
-    H0 = "Eye", H1 = "Eye", H2 = "Eye", H3 = "Eye", H4 = "Eye", H5 = "Eye", 
-    H6 = "Ear", H7 = "Ear", H8 = "Ear", H9 = "Ear",
-    I = "Circulatory",
-    J = "Respiratory",
-    K = "Digestive",
-    L = "Skin/subcutaneous",
-    M = "Musculoskeletal",
-    N = "Genitourinary",
-    O = "Pregnancy",
-    P = "Congenital",
-    Q = "Congenital",
-    R = "Health Factors",
-    S = "Injury", T = "Injury",
-    V = "External causes", W = "External causes", X = "External causes", Y = "External causes", 
-    Z = "Health Factors"
+  # Define the mapping of two-digit ICD-10 codes to chapters
+  icd_chapters <- list(
+    "A00-B99" = "Infectious",
+    "C00-D49" = "Neoplasms",
+    "D50-D89" = "Blood/immune",
+    "E00-E89" = "Endocrine/metabolic",
+    "F01-F99" = "Mental/behavioral",
+    "G00-G99" = "Nervous",
+    "H00-H59" = "Eye",
+    "H60-H95" = "Ear",
+    "I00-I99" = "Circulatory",
+    "J00-J99" = "Respiratory",
+    "K00-K95" = "Digestive",
+    "L00-L99" = "Skin/subcutaneous",
+    "M00-M99" = "Musculoskeletal",
+    "N00-N99" = "Genitourinary",
+    "O00-O9A" = "Pregnancy",
+    "P00-P96" = "Congenital",
+    "Z00-Z99" = "Health Factors"
   )
   
-  # Handle specific ranges for D codes
-  if (three_digit_code %in% paste0("D", 0:49)) {
-    chapter <- icd_chapters["D1"]
-  } else if (three_digit_code %in% paste0("D", 50:89)) {
-    chapter <- icd_chapters["D2"]
-  } else {
-    # Default lookup based on the first character
-    first_char <- substr(three_digit_code, 1, 1)
-    chapter <- icd_chapters[first_char]
+  # Helper function to compare ICD-10 codes
+  icd_in_range <- function(code, range) {
+    start <- substr(range, 1, 3)
+    end <- substr(range, 5, 7)
+    return(code >= start && code <= end)
   }
   
-  return(as.character(chapter))
+  # Function to find the corresponding chapter for a given two-digit code
+  find_chapter <- function(code) {
+    for (range in names(icd_chapters)) {
+      if (icd_in_range(code, range)) {
+        return(icd_chapters[[range]])
+      }
+    }
+    return(NA) # Return NA if the code does not match any chapter
+  }
+  
+  # Apply the find_chapter function to the two-digit code
+  chapter <- find_chapter(two_digit_code)
+  
+  return(chapter)
 }
-
-
