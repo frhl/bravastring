@@ -6,8 +6,8 @@
 #' @examples
 #' biobanks <- get_biobanks()
 #' print(biobanks)
-#' # [1] "UKB" "GEL" "GNH" "BBJ" "PMB" "BioMe"
+#' # [1] "UKB" "GEL" "GNH" "BBJ" "PMB" "BioMe". "AOU"
 #' @export
 get_biobanks <- function(){
-  return(c("UKB", "GEL", "GNH", "BBJ", "PMB", "BioMe"))
+  return(c("UKB", "GEL", "GNH", "BBJ", "PMB", "BioMe", "AOU"))
 }

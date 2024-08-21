@@ -15,5 +15,5 @@ This function returns a character vector of common biobank names.
 \examples{
 biobanks <- get_biobanks()
 print(biobanks)
-# [1] "UKB" "GEL" "GNH" "BBJ" "PMB" "BioMe"
+# [1] "UKB" "GEL" "GNH" "BBJ" "PMB" "BioMe". "AOU"
 }

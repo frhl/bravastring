@@ -17,6 +17,7 @@ Imports:
     stringr
 Collate: 
     'brava_trait_path.R'
+    'pilot_traits_path.R'
     'brava_samples_path.R'
     'clean_string.R'
     'dict.R'

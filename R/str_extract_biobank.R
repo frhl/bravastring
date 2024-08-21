@@ -9,7 +9,7 @@
 #' @export
 str_extract_biobank <- function(x){
   regex_pattern <- regex_vector(get_biobanks())
-  regex_pattern <- paste0("(?<=[_\\.])", regex_pattern, "(?=[_\\.])")
+  regex_pattern <- paste0("(?<=[_\\.])|", regex_pattern, "|(?=[_\\.])")
   return(stringr::str_extract(x, pattern=regex_pattern))
 }
 
