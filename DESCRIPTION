@@ -14,11 +14,13 @@ Encoding: UTF-8
 LazyData: true
 Imports: 
     data.table,
-    stringr
+    stringr,
+    dplyr
 Collate: 
     'brava_trait_path.R'
     'pilot_traits_path.R'
     'brava_samples_path.R'
+    'calc_weights_meta.R'
     'clean_string.R'
     'dict.R'
     'hgnc_symbol_path.R'
@@ -47,6 +49,8 @@ Collate:
     'is_canonical.R'
     'run_inv_var.R'
     'run_stouffer.R'
+    'run_cauchy.R'
+    'run_heterogeneity_test.R'
     'transcript_to_gene_id.R'
     'calc_inflation.R'
     'get_expected_p.R'

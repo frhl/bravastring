@@ -13,3 +13,4 @@ str_extract_biobank <- function(x){
   return(stringr::str_extract(x, pattern=regex_pattern))
 }
 
+
