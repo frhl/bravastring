@@ -39,6 +39,8 @@ Collate:
     'str_extract_annotation.R'
     'str_extract_brava_trait.R'
     'str_extract_brava_trait_gel.R'
+    'str_extract_cases.R'
+    'str_extract_controls.R'
     'str_extract_encoding.R'
     'str_extract_biobank.R'
     'str_extract_sex.R'

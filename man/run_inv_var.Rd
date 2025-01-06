@@ -2,48 +2,40 @@
 % Please edit documentation in R/run_inv_var.R
 \name{run_inv_var}
 \alias{run_inv_var}
-\title{Perform Inverse-Variance Weighted Meta-Analysis}
+\title{Perform Inverse Variance Meta-Analysis}
 \usage{
-run_inv_var(dt, se_cols, beta_cols)
+run_inv_var(
+  grouped_dt,
+  input_beta_name,
+  input_se_name,
+  output_beta_meta,
+  output_se_meta,
+  output_meta_pvalue
+)
 }
 \arguments{
-\item{dt}{A data.table containing the data for the meta-analysis.}
+\item{grouped_dt}{A grouped data table or data frame.}
 
-\item{se_cols}{A character vector of column names in \code{dt} representing the standard errors of the effect sizes.}
+\item{input_beta_name}{Character. Name of the column containing input beta coefficients.}
 
-\item{beta_cols}{A character vector of column names in \code{dt} representing the effect sizes.}
+\item{input_se_name}{Character. Name of the column containing input standard errors.}
+
+\item{output_beta_meta}{Character. Name for the output meta-analysis beta column.}
+
+\item{output_se_meta}{Character. Name for the output meta-analysis standard error column.}
+
+\item{output_meta_pvalue}{Character. Name for the output meta-analysis p-value column.}
 }
 \value{
-The input data.table \code{dt} with additional columns for the meta-analysis p-value.
+A data table with added columns for meta-analysis results:
+  \item{output_beta_meta}{The calculated meta-analysis beta coefficient.}
+  \item{output_se_meta}{The calculated meta-analysis standard error.}
+  \item{output_meta_pvalue}{The calculated meta-analysis p-value.}
 }
 \description{
-This function performs an inverse-variance weighted meta-analysis on a data table.
-It calculates the meta-analysis effect size (beta), its standard error, and the p-value.
+Perform Inverse Variance Meta-Analysis
 }
 \details{
-The function performs the following steps:
-\enumerate{
-  \item Checks that the provided \code{se_cols} and \code{beta_cols} are present in \code{dt} and that their lengths are equal.
-  \item Calculates weights as the inverse of the squared standard errors.
-  \item Computes weighted effect sizes.
-  \item Sums the weights and the weighted effect sizes.
-  \item Calculates the meta-analysis effect size (\code{beta_meta}) and its standard error (\code{se_meta}).
-  \item Computes the z-value and the p-value for the meta-analysis.
-  \item Appends the meta-analysis p-value to the original data table.
-}
-}
-\examples{
-\dontrun{
-library(data.table)
-dt <- data.table(
-  se1 = c(0.1, 0.2, 0.1),
-  se2 = c(0.2, 0.1, 0.2),
-  beta1 = c(0.3, 0.5, 0.2),
-  beta2 = c(0.4, 0.3, 0.1)
-)
-se_cols <- c("se1", "se2")
-beta_cols <- c("beta1", "beta2")
-result <- run_inv_var(dt, se_cols, beta_cols)
-print(result)
-}
+This function performs an inverse variance meta-analysis on grouped data.
+It handles edge cases where standard errors are infinite or zero.
 }
