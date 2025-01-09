@@ -18,3 +18,5 @@ str_extract_cases <- function(x) {
   regex_pattern <- "(?<=[_\\.])[0-9]+(?=\\.\\d+[_\\.])"
   return(stringr::str_extract(x, pattern=regex_pattern))
 }
+
+

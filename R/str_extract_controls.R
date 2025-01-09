@@ -15,6 +15,8 @@
 #' @import stringr
 #' @export
 str_extract_controls <- function(x) {
-  regex_pattern <- "(?<=\\.[0-9]+)[0-9]+(?=[_\\.])"
-  return(stringr::str_extract(x, pattern=regex_pattern))
+    regex_pattern <- "\\.[0-9]+\\.([0-9]+)(?=[_\\.])"
+    matches <- stringr::str_match(x, pattern = regex_pattern)
+    return(matches[,2])  # Return the captured group
 }
+
